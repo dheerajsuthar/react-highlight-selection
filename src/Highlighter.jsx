@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 
 const propTypes = {
+    text: PropTypes.string.isRequired,
     customClass: PropTypes.string,
     selectionHandler: PropTypes.func
 };

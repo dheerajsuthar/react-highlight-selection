@@ -1,6 +1,6 @@
 {
   "name": "react-highlight-selection",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple React component to highlight and retrieve selected text.",
   "main": "./lib/Highlighter.js",
   "scripts": {
