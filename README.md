@@ -8,6 +8,8 @@ npm i react-highlight-selection
 ```
 
 ## Usage
+[![Edit ReactHighlightSelection](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/y0vw15o39j)
+
  - Provide required **text** prop. This will be the text contained inside the component.
  - Highlight the required portion of text by dragging the mouse over it with left-button pressed. The text would be highlighted on button's release
 - Optionally, provide a custom class to give your own background color or any other styling.
