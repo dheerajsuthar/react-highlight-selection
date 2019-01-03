@@ -1,0 +1,39 @@
+{
+  "name": "react-highlight-selection",
+  "version": "1.0.0",
+  "description": "A simple React component to highlight and retrieve selected text.",
+  "main": "./lib/Highlighter.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "homepage": "https://unprogrammer.com/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dheerajsuthar/react-highlight-selection.git"
+  },
+  "keywords": [
+    "React",
+    "highlight",
+    "selection",
+    "text"
+  ],
+  "author": "Dheeraj Suthar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dheerajsuthar/react-highlight-selection/issues"
+  },
+  "dependencies": {
+    "react": "^16.7.0",
+    "react-dom": "^16.7.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.4",
+    "path": "^0.12.7",
+    "prop-types": "^15.6.2",
+    "webpack": "^4.28.3",
+    "webpack-cli": "^3.2.0"
+  }
+}
